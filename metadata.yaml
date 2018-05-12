@@ -1,0 +1,36 @@
+_repo: The-Robber-Baron-of-Bedford-Castle_44374
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44374-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Foster, A. J.
+    gutenberg_agent_id: '42716'
+    url: http://www.gutenberg.org/2009/agents/42716
+  - agent_name: Cuthell, Edith E.
+    alias: Cuthell, E. E.
+    deathdate: 1929
+    gutenberg_agent_id: '42717'
+    url: http://www.gutenberg.org/2009/agents/42717
+description: ''
+gutenberg_issued: '2012-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romance fiction'
+- !lcsh 'Great Britain -- History -- 13th century -- Fiction'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Brigands and robbers -- Fiction'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Robber Baron of Bedford Castle
+url: http://www.gutenberg.org/ebooks/44374
