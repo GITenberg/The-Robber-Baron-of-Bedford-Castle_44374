@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42717'
     url: http://www.gutenberg.org/2009/agents/42717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44374#The-Robber-Baron-of-Bedford-Castle
 gutenberg_issued: '2012-12-06'
 gutenberg_type: Text
 identifiers:
